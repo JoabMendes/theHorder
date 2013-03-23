@@ -21,19 +21,16 @@ periférica para que esteja preparados para um eventual apocalipse zombie.
 Uso e desenvolvimento:
 ----------------------
 
-  	* Existem tres pastas para desenvolvimento Active, Development e Test
-
-  		- Active:
+* Existem tres pastas para desenvolvimento Active, Development e Test
+	- Active:
   		Desenvolvimento final depois de uma alteração e aprovação
+	- Development:
+		Desenvolvimento faturável do projeto que passará por aprovação antes de fazer alterações nos arquivos desta pasta fazer um backup trocando a extenção pra .bak do arquivo a ser modificado 
+	- Test:
+		Pasta que seve para testes de classes e funções, separar por pastas cada teste, mas não auterar o teste de outro desenvolvedor
 
-  		- Development:
-    		Desenvolvimento faturável do projeto que passará por aprovação antes de fazer alterações nos arquivos desta pasta fazer um backup trocando a extenção pra .bak do arquivo a ser modificado 
-
-    		- Test:
-    			Pasta que seve para testes de classes e funções, separar por pastas cada teste, mas não auterar o teste de outro desenvolvedor
-
-	* Arquivo COMAND:
-	 	- Define tarefas a serem feitas:
-	   		Nome da tarefa [Desenvolvedor][Status]
+* Arquivo COMAND:
+	- Define tarefas a serem feitas:
+		Nome da tarefa [Desenvolvedor][Status]
 		
 ಠ_ಠ
